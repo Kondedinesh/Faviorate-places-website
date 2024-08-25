@@ -1,0 +1,109 @@
+.fav
+{
+    background-image: url(../HTML/photos/om.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:240vh;
+    width:100vw;
+    border-radius: 7px;
+    padding:20px;
+}
+.favhead
+{
+    text-align: center;
+    color: skyblue;
+    text-decoration: solid;
+    font-family:serif;
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: bold;
+    padding:20px;
+    transform: scale(1,2);
+}
+.khead
+{
+    background-color:white;
+    background-image: linear-gradient(black,transparent);
+    color: orange;
+    text-decoration: solid;
+    font-family: serif;
+    font-style: oblique;
+    font-weight: bold;
+    height: 25vh;
+    width:70vw;
+    padding:10px;
+    border-radius: 25px;
+    margin:35px;
+    transform: translate(80px,80px);
+    transition: width 2s;
+}
+.txc
+{
+    color:black;
+    text-align:start;
+    font-size: small;
+    font-weight: bold;
+    font-family: serif;
+    padding: 3px;
+    margin: 7px;
+   
+}
+.kedharnadth
+{
+    background-image: url(../HTML/photos/shiva2.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    height:155px;
+    width:195px;
+    border-radius:9px;
+}
+.ayodhya
+{
+    background-image: url(../HTML/photos/ram-temple-at-ayodhya.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:155px;
+    width:450px;
+    border-radius:9px;
+}
+.badrinadth
+{
+    background-image: url(../HTML/photos/bhadrinadth.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:155px;
+    width:195px;
+    border-radius:9px;
+
+}
+.tirumala
+{
+    background-image: url(../HTML/photos/desktop-wallpaper-of-tirupati-balaji-temple.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:155px;
+    width:355px;
+    border-radius:9px;
+
+}
+.ayyappa
+{
+    background-image:url(../HTML/photos/ayyappa.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:155px;
+    width:270px;
+    border-radius:9px;
+}
+.kanakadurgaamma
+{
+    background-image: url(../HTML/photos/IMG-20170930-WA0088.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:157px;
+    width:300px;
+    border-radius:9px;
+}
+.khead:hover{
+    width: 87vw;
+}

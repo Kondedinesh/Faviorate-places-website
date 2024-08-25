@@ -1,0 +1,35 @@
+.bgcontainer
+{
+   background-image: url(../HTML/photos/th3.jpg);
+   background-repeat:no-repeat;
+   background-size:cover;
+   text-align:center;
+   height:100vh;
+   width:100vw;
+   border-top-left-radius: 15px;
+   border-top-right-radius: 15px;
+   border-bottom-left-radius: 15px;
+   border-bottom-right-radius: 15px;
+   font-weight: bold;
+}
+.card
+{
+   color:rgba(0, 0, 0, 0.711);
+   font-style: italic;
+   font-weight: bold;
+   border-top-right-radius: 20px;
+   border-top-left-radius: 20px;
+   border-bottom-left-radius: 20px;
+   border-bottom-right-radius: 20px;
+   padding: 270px;
+}
+.b{
+   height: 36px;
+   width: 138px;
+   background-color:rgba(165, 42, 42, 0.47);
+   color:rgba(255, 255, 255, 0.852);
+   border-radius: 30px;
+   border-width: 2px;
+   border-color:rgba(165, 42, 42, 0.503);
+  
+}
